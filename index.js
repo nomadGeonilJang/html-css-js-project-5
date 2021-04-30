@@ -1,7 +1,3 @@
-// you can write to stderr for debugging purposes, e.g.
-// process.stderr.write('this is a debug message');
-
-
 const getNumberLength = (number) => {
     return String(number).length
 }
